@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+*.o
+
+# Release packages -- attach these to a GitHub Release instead of committing them
+*.levipack
+
+# Local toolchain / scratch (not part of the source)
+toolchain/
+work/
+
+# Editor / OS
+.DS_Store

@@ -1,0 +1,27 @@
+{
+  "type": "preload-native",
+  "name": "BetterZoom",
+  "author": "Jeno081209",
+  "description": "Flarial-style zoom for LeviLauncher: hold the on-screen button to zoom and slide up/down to adjust the level (or tap to toggle), smooth ease-out animation, low sensitivity, hidden hand, cinematic camera. Signature-verified on Minecraft 26.40 - 26.51.",
+  "version": "2.4.1",
+  "entry": "libbetterzoom.so",
+  "icon": "icon.png",
+  "minecraft_versions": [
+    "1.26.4*",
+    "26.4*",
+    "1.26.40.*",
+    "26.40.*",
+    "1.26.44.*",
+    "26.44.*",
+    "1.26.45.*",
+    "26.45.*",
+    "1.26.50.*",
+    "26.50.*",
+    "1.26.51.*",
+    "26.51.*",
+    "1.26.5*",
+    "26.5*"
+  ],
+  "overwrite_files": [],
+  "overwrite_folders": []
+}
